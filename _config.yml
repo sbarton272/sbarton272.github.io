@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+name: Spencer Barton
 markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
+timezone: America/New_York
+exclude: [Gemfile, Gemfile.lock, README.md, serve_site.sh]

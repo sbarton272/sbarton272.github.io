@@ -1,2 +1,6 @@
 Gemfile
 Gemfile.lock
+_drafts/
+_site/
+*.swp
+*.sh
