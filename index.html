@@ -1,13 +1,20 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Home
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+
+	<div id="welcome" class="row">
+			<div class="span1">
+				<img id="myPhoto" src="assets/img/me.jpg" alt="Photo of Spencer Barton">
+			</div>
+			<div class="span">
+		 		<h1> Hello! </h1>
+		    <p>
+		    	My name is Spencer Barton. I'm a student at Carnegie Mellon University set to graduate in 2015 with a BS in Electrical &amp; Computer Engineering. Check out my projects.
+		    </p>
+		  </div>
+  </div>
+
 </div>

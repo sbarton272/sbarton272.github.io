@@ -4,3 +4,4 @@ _drafts/
 _site/
 *.swp
 *.sh
+.sass-cache
