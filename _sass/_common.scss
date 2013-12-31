@@ -40,15 +40,15 @@ a {
 
 img {
   vertical-align: middle;
-	.img-responsive {
+	&.img-responsive {
 	  display: block;
 	  max-width: 100%;
 	  height: auto;
 	}
-	.img-rounded {
+	&.img-rounded {
 	  border-radius: 6px;
 	}
-	.img-thumbnail {
+	&.img-thumbnail {
 	  padding: 4px;
 	  line-height: 1.428571429;
 	  background-color: #ffffff;
@@ -60,7 +60,7 @@ img {
 	  max-width: 100%;
 	  height: auto;
 	}
-	.img-circle {
+	&.img-circle {
 	  border-radius: 50%;
 	}
 }
