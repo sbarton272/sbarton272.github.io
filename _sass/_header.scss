@@ -1,29 +1,31 @@
 /* header */
 
-.title {
-  display: inline-block;
-  margin-bottom: 1.5em;
-}
+.header {
+  .title {
+    display: inline-block;
+    margin-bottom: 1.5em;
+  }
 
-a {
-  border-bottom: none;
-  &.extra {
-    color: #aaa;
-    margin-left: 1em;
+  a {
+    border-bottom: none;
+    &.extra {
+      color: #aaa;
+      margin-left: 1em;
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+
+  .header a {
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .title a {
+    color: #a00;
     &:hover {
       color: #000;
     }
-  }
-}
-
-.header a {
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.title a {
-  color: #a00;
-  &:hover {
-    color: #000;
   }
 }
