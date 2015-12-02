@@ -1,7 +1,7 @@
 name: Spencer Barton
 permalinks: pretty
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 safe: true
 lsi: false
 timezone: America/New_York
