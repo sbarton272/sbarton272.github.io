@@ -14,7 +14,8 @@ title: Home
 		    	Hullo, I'm Spencer
 		    </p>
 		    <p>
-		    	I am an <a href="https://en.wikipedia.org/wiki/Embedded_software">embedded software</a> engineer at <a href="https://nest.com/">Nest Labs</a>. I live in SF(TODO link)
+		    	I am an <a href="https://en.wikipedia.org/wiki/Embedded_software">embedded software</a> engineer at <a href="https://nest.com/">Nest Labs</a>. I live in SF.
+"></a>SF
 		    </p>
 		  </div>
   </div>

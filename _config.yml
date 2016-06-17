@@ -1,6 +1,5 @@
 name: Spencer Barton
-permalinks: pretty
-markdown: redcarpet
+permalink: /:year/:month/:day/:title/
 highlighter: pygments
 safe: true
 lsi: false
