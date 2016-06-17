@@ -4,5 +4,5 @@ markdown: redcarpet
 highlighter: pygments
 safe: true
 lsi: false
-timezone: America/New_York
-exclude: [Gemfile, Gemfile.lock, README.md, serve_site.sh]
+timezone: America/Los_Angeles
+exclude: [Gemfile, Gemfile.lock, README.md, TODO.txt, quotes/index.html, interests/index.html, blog/index.html]
