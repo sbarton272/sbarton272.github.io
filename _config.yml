@@ -4,4 +4,4 @@ highlighter: pygments
 safe: true
 lsi: false
 timezone: America/LA
-exclude: [Gemfile, Gemfile.lock, README.md, TODO.txt]
+exclude: [Gemfile, Gemfile.lock, README.md, TODO.txt, sbarton272.github.io.sublime*]

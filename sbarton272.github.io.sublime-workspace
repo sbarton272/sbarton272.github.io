@@ -268,15 +268,15 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_posts/2016-06-16-sf-photos.md",
+			"file": "_posts/2016-06-16-sf-photos.md",
 			"settings":
 			{
-				"buffer_size": 773,
+				"buffer_size": 839,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/main.scss",
+			"file": "assets/css/main.scss",
 			"settings":
 			{
 				"buffer_size": 190,
@@ -284,13 +284,18 @@
 			}
 		},
 		{
-			"contents": "/*****************************************************************************/\n/*\n/* Common\n/*\n/*****************************************************************************/\n\n\nhtml, body { height: 100%; }\n\nbody {\n  background-color: #FFF;\n  font: 17px Helvetica, Arial, sans-serif;\n  font-size: small;\n  text-align: justify;\n  line-height: 1.5em;\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-size: 100%; }\n\nh1 { margin-bottom: 1em; }\np { margin: 1em 0; }\n\na {\n	color: black; \n	text-decoration: none;\n	border-bottom: 1px dotted black;\n	transition: all 0.5s;\n	&:hover   { \n		color: black; \n	  	text-decoration: none;\n	  	border-bottom: 1px black;\n		}\n	&:visited { color: black; }\n	&:focus {\n	  outline: 5px auto -webkit-focus-ring-color;\n	  outline-offset: -2px;\n		}\n	}\n\nimg {\n  vertical-align: middle;\n	&.img-padded {\n	  \n	}\n	&.img-responsive {\n	  display: block;\n	  max-width: 100%;\n	  height: auto;\n	}\n	&.img-rounded {\n	  border-radius: 6px;\n	}\n	&.img-thumbnail {\n	  padding: 4px;\n	  line-height: 1.428571429;\n	  background-color: #ffffff;\n	  border: 1px solid #dddddd;\n	  border-radius: 4px;\n	  -webkit-transition: all 0.2s ease-in-out;\n	  transition: all 0.2s ease-in-out;\n	  display: inline-block;\n	  max-width: 100%;\n	  height: auto;\n	}\n	&.img-circle {\n	  border-radius: 50%;\n	}\n}\n\nhr {\n  margin-top: 20px;\n  margin-bottom: 20px;\n  border: 0;\n  border-top: 1px solid #eeeeee;\n}\n",
-			"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/_common.scss",
-			"file_size": 1352,
-			"file_write_time": 1448948802000000,
+			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 1375,
+				"buffer_size": 466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 940,
 				"line_ending": "Unix"
 			}
 		}
@@ -298,7 +303,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 267.0,
+		"height": 207.0,
 		"selected_items":
 		[
 			[
@@ -374,7 +379,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -391,11 +396,12 @@
 	},
 	"file_history":
 	[
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/_common.scss",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/sbarton272.github.io.sublime-project",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_config.yml",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/Gemfile",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_layouts/default.html",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_includes/header.html",
-		"/Users/sebarton/Documents/Personal/sbarton272.github.io/sbarton272.github.io.sublime-project",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/blog/index.html",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/TODO.txt",
 		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_posts/2016-06-16-sf-photos.md",
@@ -517,8 +523,7 @@
 		"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test/test_detectors/test_flintstonefaultdetector.cpp",
 		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nlappkit/nleventsendingtimer.cpp",
 		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlflintstonefaultdetector.cpp",
-		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nlappcore/nltimer.cpp",
-		"/Volumes/NestDev/sapphire/production/sw/tps/nspr/nspr-4.8.6/mozilla/nsprpub/pr/src/pthreads/ptsynch.c"
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nlappcore/nltimer.cpp"
 	],
 	"find":
 	{
@@ -526,7 +531,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"",
@@ -564,6 +569,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"img-",
+			"img-	",
 			".sh",
 			"img",
 			"html",
@@ -689,9 +696,7 @@
 			"User",
 			"@google.com",
 			".*@[^google.com]$",
-			".*@[^nestlabs.com]$",
-			"FutureDataInterface",
-			"FutureDataHolderInterface"
+			".*@[^nestlabs.com]$"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -711,22 +716,23 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_posts/2016-06-16-sf-photos.md",
+					"file": "_posts/2016-06-16-sf-photos.md",
 					"settings":
 					{
-						"buffer_size": 773,
+						"buffer_size": 839,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								149,
-								149
+								839,
+								839
 							]
 						],
 						"settings":
@@ -741,7 +747,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/main.scss",
+					"file": "assets/css/main.scss",
 					"settings":
 					{
 						"buffer_size": 190,
@@ -751,8 +757,8 @@
 						"selection":
 						[
 							[
-								71,
-								71
+								143,
+								143
 							]
 						],
 						"settings":
@@ -767,26 +773,55 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/_common.scss",
+					"file": "index.md",
 					"settings":
 					{
-						"buffer_size": 1375,
+						"buffer_size": 466,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								812,
-								812
+								440,
+								440
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -843,6 +878,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"201",
+				"_posts/2016-06-16-sf-photos.md"
+			],
+			[
+				"comm",
+				"_sass/_common.scss"
+			],
 			[
 				"",
 				"Find Results"

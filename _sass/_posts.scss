@@ -1,47 +1,54 @@
 /* posts */
 
-.posts {
+.post-list {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-.posts li {
+.post-list li {
   line-height: 1.75em;
 }
 
-.posts span {
+.post-list span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
 
-.post pre {
+.post-date {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  margin: 0;
+}
+
+.post-content pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+.post-content ul, .post ol {
   margin-left: 1.35em;
 }
 
-.post code {
+.post-content code {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
 }
 
-.post pre code {
+.post-content pre code {
   border: none;
 }
 
 /* terminal */
-.post pre.terminal {
+.post-content pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
 }
 
-.post pre.terminal code {
+.post-content pre.terminal code {
   background-color: #333;
 }
