@@ -1,0 +1,1238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quer",
+				"queryStr"
+			],
+			[
+				"Sta",
+				"State_enum"
+			],
+			[
+				"Sa",
+				"StateID"
+			],
+			[
+				"Fa",
+				"FaultId"
+			],
+			[
+				"batt",
+				"batteryVoltagesTemplate"
+			],
+			[
+				"Batt",
+				"BatteryChargeState_enum"
+			],
+			[
+				"Flints",
+				"FlintstonePowerState"
+			],
+			[
+				"dev",
+				"deviceList"
+			],
+			[
+				"date",
+				"dateA"
+			],
+			[
+				"Ver",
+				"VersionInfo"
+			],
+			[
+				"Dev",
+				"DeviceInfo"
+			],
+			[
+				"DEvice",
+				"DeviceInfo"
+			],
+			[
+				"time",
+				"time_usec"
+			],
+			[
+				"WDM",
+				"WDMFaultState"
+			],
+			[
+				"sorte",
+				"sorted_list"
+			],
+			[
+				"sort",
+				"sorted_list"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"Med",
+				"MedianFilter"
+			],
+			[
+				"Mem",
+				"MEMORY_FAULT_TYPE_UNSPECIFIED"
+			],
+			[
+				"stu",
+				"stuck_value"
+			],
+			[
+				"PirF",
+				"PirFaultType"
+			],
+			[
+				"ALS",
+				"ALS_FAULT_TYPE_UNSPECIFIED"
+			],
+			[
+				"option",
+				"optional"
+			],
+			[
+				"in",
+				"inSuite"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Get",
+				"GetNextId"
+			],
+			[
+				"Rese",
+				"reset"
+			],
+			[
+				"succ",
+				"succes"
+			],
+			[
+				"fu",
+				"futureData"
+			],
+			[
+				"Future",
+				"FutureDataIdType"
+			],
+			[
+				"Canc",
+				"CancelTimer"
+			],
+			[
+				"a",
+				"aHowFarInFutureToPublish"
+			],
+			[
+				"Pu",
+				"Publish"
+			],
+			[
+				"Su",
+				"SubscriptionInterface"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"Sub",
+				"Subscription"
+			],
+			[
+				"res",
+				"registry"
+			],
+			[
+				"has",
+				"mHasNewData"
+			],
+			[
+				"Top",
+				"Topic"
+			],
+			[
+				"Topic",
+				"TopicRegistry"
+			],
+			[
+				"Pub",
+				"Publisher"
+			],
+			[
+				"tele",
+				"TeletubbiesData"
+			],
+			[
+				"Te",
+				"TeletubbiesData"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"Re",
+				"Register"
+			],
+			[
+				"type",
+				"typedef"
+			],
+			[
+				"ma",
+				"maxX"
+			],
+			[
+				"k",
+				"kButtonStuckTimeoutSec"
+			],
+			[
+				"nleven",
+				"nlEventQueue"
+			],
+			[
+				"nlEve",
+				"nlEventSendingTimer"
+			],
+			[
+				"dea",
+				"defaultTimer"
+			],
+			[
+				"nlSenso",
+				"nlSensorData"
+			],
+			[
+				"ACC",
+				"NLSENSOR_TYPE_ACCELEROMETER"
+			],
+			[
+				"nl",
+				"nlSensorType"
+			],
+			[
+				"FAUL",
+				"FAULT_FLAG_NOT_CHECKED"
+			],
+			[
+				"Attac",
+				"AttachQueue"
+			],
+			[
+				"nlTES",
+				"NL_TEST_ASSERT"
+			],
+			[
+				"chck",
+				"checker"
+			],
+			[
+				"mButt",
+				"mpButtonStuckChecker"
+			],
+			[
+				"Button",
+				"ButtonStuckChecker"
+			],
+			[
+				"mSe",
+				"mSensorMissingTimer"
+			],
+			[
+				"Test_Sens",
+				"Test_SensorMissingTimeout"
+			],
+			[
+				"nlEvent",
+				"nlEventTimedOut"
+			],
+			[
+				"check",
+				"checker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2016-06-16-sf-photos.md",
+			"settings":
+			{
+				"buffer_size": 839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"REmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Inc",
+				"Increment Selection"
+			],
+			[
+				"In",
+				"Increment Selection"
+			],
+			[
+				"Incr",
+				"Increment Selection"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				":lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"paca",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_sass/_common.scss",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/sbarton272.github.io.sublime-project",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_config.yml",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/Gemfile",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_layouts/default.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_includes/header.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/blog/index.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/TODO.txt",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_posts/2016-06-16-sf-photos.md",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_pages/index.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/interests/index.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/quotes/index.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_layouts/post.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/index.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/_drafts/blog.html",
+		"/Users/sebarton/Documents/Personal/sbarton272.github.io/README.md",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/auth/include/nlcredentialtracker.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/main/src/nlmain.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/main/src/nlclient.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/main/src/nlmain.h",
+		"/Users/sebarton/Documents/Personal/scraper.py",
+		"/Users/sebarton/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/sebarton/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sebarton/Workspace/proto-gae-ngs/model/device.py",
+		"/Users/sebarton/Workspace/proto-gae-ngs/admin/configure_device.html",
+		"/Users/sebarton/Workspace/metrics/pearl/flintstone_ft_data.py",
+		"/Users/sebarton/Workspace/metrics/pearl/pinna_ft_data.py",
+		"/Users/sebarton/Workspace/metrics/pearl/example",
+		"/Users/sebarton/Library/Application Support/Sublime Text 2/Packages/VIM Navigation/README.md",
+		"/Users/sebarton/Downloads/tvd_descriptors_flintstone.json",
+		"/Users/sebarton/Downloads/getlogs/log/nlclient",
+		"/Users/sebarton/Library/Application Support/Sublime Text 2/Packages/View Movement/README.md",
+		"/Users/sebarton/Downloads/var 3/log/nlclient#1903",
+		"/Users/sebarton/Downloads/var 3/log/archive/nlclient#1901",
+		"/Users/sebarton/Downloads/var 3/log/archive/nlclient#1902",
+		"/Users/sebarton/Downloads/var 3/log/nlclient",
+		"/Users/sebarton/Downloads/var 3/log/archive/nlclient#1899",
+		"/Users/sebarton/Downloads/var 3/log/archive/nlevent#2213",
+		"/Users/sebarton/Downloads/var 3/log/archive/nlclient#1898",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/flintstone/hardware_fault_diagnostics_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/keshi/hardware_fault_diagnostics_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/network/radio_fault_struct.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/flintstone/flintstone_hardware_fault_diagnostics_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/active_jamming_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/pinna/pinna_hardware_fault_diagnostics_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/keshi/keshi_hardware_fault_diagnostics_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/tamper_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/maldives_prototype/trait/flintstone/button_fault_struct.proto",
+		"/Users/sebarton/Downloads/concat 2/2016-04-05-clientdebug-flintstone.log",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/sensor/temperature_fault_struct.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/sensor/pir_fault_struct.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/sensor/battery_voltage_fault_struct.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/sensor/accelerometer_fault_struct.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/pinna/pinna_hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/flintstone/flintstone_hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/keshi/keshi_hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/keshi/hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/pinna/hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/flintstone/hardware_fault_trait.proto",
+		"/Users/sebarton/Workspace/phoenix-schema/schema/src/nest/trait/flintstone/tamper.proto",
+		"/Users/sebarton/Downloads/var/log/archive/nlclient#58800",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/detectors/include/nlusernearbydetector.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/detectors/src/nlusernearbydetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/include/timeoutpublisher.hpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/src/graphstatestore.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/src/statesnapshot.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/src/detectorgraph.cpp",
+		"/Users/sebarton/Downloads/histogram_demo_features.py",
+		"/Volumes/NestDev/sapphire/production/build/scripts/tvdschemas/tvd_descriptors_flintstone.json",
+		"/Users/sebarton/Downloads/concat/2016-02-13-clientdebug-flintstone.log",
+		"/Users/sebarton/Desktop/TODO.txt",
+		"/Users/sebarton/urls.txt",
+		"/Users/sebarton/Downloads/teraterm-pinna (2)",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/core/include/nleventtopicstate.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/topicstates/include/batteryvoltagestate.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/detectors/include/nlintrusiondetector.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/detectors/src/nlbatterydetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/detectors/include/nlbatterydetector.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/include/flintstonedetectorgraph.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/src/flintstonedetectorgraph.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/unit-test/test_graphstatestore.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/app/src/nlglobalcntlr.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/hosted/flintstone/nlflintstoneactivefaultdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlsystemfaultdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/hosted/flintstone/nlflintstonepassivefaultdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/hiddenite/include/nlhiddenitefetch.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/hiddenite/src/nlhiddenitefetch.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/topicstates/include/pinnafaultstate.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/app/src/nlremotedevicescaffoldingcntlr.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/src/nlflintstonedetectorgraphthread.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/core/src/nldetectorgraphthread.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectorgraph/core/include/nldetectorgraphthread.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nldetectorgraph/include/statesnapshot.hpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlsecurityalarmdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nldetectorthread.cpp",
+		"/Users/sebarton/Downloads/results-20151104-142303.json",
+		"/Users/sebarton/Documents/Personal/San-Francisco-in-Progress/assets/js/map.js",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/unit-test/test_foodetector.cpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/makefile",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/src/futurepublisher.cpp",
+		"/Volumes/NestDev/MarkII/README.md",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/unit-test/test_futuredetector.h",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/unit-test/test_list.h",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/unit-test/test_foodetector.h",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/samples/minimal.cpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/src/detector.cpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/vertex.hpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/detector.hpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/topic.hpp",
+		"/Volumes/NestDev/MarkII/code_samples/smalltopic.cpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/publisher.hpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/detectorgraph.hpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/src/detectorgraph.cpp",
+		"/Volumes/NestDev/MarkII/topic-detector-graph/include/futurepublisher.hpp",
+		"/Volumes/NestDev/MarkII/code_samples/topicregistry.cpp",
+		"/Volumes/NestDev/MarkII/code_samples/makefile",
+		"/Volumes/NestDev/MarkII/code_samples/detector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/app/src/nlglobalcntlr.h",
+		"/Users/sebarton/Downloads/test.py",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlusbtamperdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlsecurityarmdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlhiddenitefetch.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/include/nlflintstonefaultdetector.h",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test/test_detectors/test_flintstonefaultdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nlappkit/nleventsendingtimer.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src/nlflintstonefaultdetector.cpp",
+		"/Volumes/NestDev/sapphire/production/sw/nestlabs/lib/nlappcore/nltimer.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"sw/nestlabs/flintstone/app",
+			"",
+			"<open folders>",
+			"nlclient*",
+			"<open folders>",
+			"<open files>",
+			"",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/detectors/",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/detectors",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/detectors, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test, *.cpp",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/unit-test",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors/src",
+			"/Volumes/NestDev/sapphire/production/sw/nestlabs/flintstone/detectors",
+			"/Volumes/NestDev/sapphire/production/sw/",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"img-",
+			"img-	",
+			".sh",
+			"img",
+			"html",
+			"date",
+			"wav_header",
+			"Library",
+			"Boost",
+			"r = nl\\w+Thread",
+			"nlFlintstoneSentencesPlayer::InitSharedInstance",
+			"wdmOpenCloseSymmTemplate",
+			"Open",
+			"close",
+			"Close",
+			"Closed",
+			"OpenClose",
+			"1\\.0d\\d+",
+			"FlintstoneAmbientMotionDetector",
+			"AmbientMotionDetector",
+			"MotionDetector",
+			"Detector",
+			"FlintstoneAmbientMotionDetector",
+			"^\\-",
+			"$\\-",
+			"$-",
+			" ",
+			" +",
+			"\\s+",
+			"batteryVoltage",
+			"battery",
+			"runSwVersionQuery",
+			"translatePinnaFault",
+			"full",
+			"runSwVersionQuery",
+			"ti_rtc",
+			"runRtcTimeSeriesTemplateQuery",
+			"deviceInfosPerTimeSeries",
+			"runRtcTimeSeriesTemplateQuery",
+			"deviceInfosPerTimeSeries",
+			"flintstoneFaultTemplate",
+			"wdmFaultTemplate",
+			"wdmOpenCloseSymmTemplate",
+			"wdmAmbientMotionTemplate",
+			"Description",
+			"Identifier",
+			"Animation",
+			"LED",
+			"Alarm reason",
+			"ALARMING",
+			"Alarm",
+			"Fault",
+			"FaultTrait",
+			"(1.0d|Tamper)",
+			"(SoftwareVersion|Tamper)",
+			"SoftwareVersion",
+			"1.0d",
+			"1.0d607",
+			"1.0d",
+			"tamper",
+			"shared",
+			"tamper",
+			"0x18b430000140885c",
+			"0x18b43000003d135e",
+			"Version",
+			"SWVer",
+			"SW",
+			"tamper",
+			"[type =",
+			"batter",
+			"17",
+			"[(wdl.prop) = {nullable: true}]",
+			"Flintstone",
+			"repeated",
+			"Flintstone Fault",
+			"USBStatA",
+			"NestCabl",
+			"Evaluate Current Faults",
+			"Tamper",
+			"fault",
+			"Fault",
+			"\\.",
+			".",
+			",",
+			" +",
+			"\\s+",
+			"	",
+			"One thing to improve",
+			"\\n",
+			"One thing did well",
+			"\\d+\\. ",
+			"	",
+			"Feedback",
+			"Completed",
+			"Completed(\\n|.)*?Feedback",
+			"\\ +",
+			"Spencer",
+			"(PIN|SUN)",
+			"Fault Asserted",
+			"fault",
+			"  +",
+			"    ",
+			"(PIN|SUN)-",
+			"Hiddenit:",
+			"\\.",
+			"\\d+\\.",
+			".",
+			" ",
+			"Device In",
+			" +",
+			"data",
+			"stuck_on_value",
+			"out_of_range",
+			"Fault",
+			"StateStore",
+			"State",
+			"Post",
+			"mWeaveNodeId",
+			"Intrusion",
+			"SetRemoteStructureMode",
+			"mpSystemFaultDetector",
+			"nlSystemFaultDetector",
+			"nlDetectorThread:",
+			"InitShare",
+			"User",
+			"@google.com",
+			".*@[^google.com]$",
+			".*@[^nestlabs.com]$"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"FaultDiagnosticsTrait",
+			"mActiveFutureDataMap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-06-16-sf-photos.md",
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								839,
+								839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/main.scss",
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.md",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 245.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"201",
+				"_posts/2016-06-16-sf-photos.md"
+			],
+			[
+				"comm",
+				"_sass/_common.scss"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"hardw",
+				"src/nest/trait/flintstone/hardware_fault_trait.proto"
+			],
+			[
+				"tvd",
+				"build/scripts/tvdschemas/tvd_descriptors_flintstone.json"
+			],
+			[
+				"detectorgraph",
+				"sw/nestlabs/lib/nldetectorgraph/src/detectorgraph.cpp"
+			],
+			[
+				"statesnapshot",
+				"sw/nestlabs/lib/nldetectorgraph/src/statesnapshot.cpp"
+			],
+			[
+				"graphstate",
+				"sw/nestlabs/lib/nldetectorgraph/src/graphstatestore.cpp"
+			],
+			[
+				"timeoutpublisher",
+				"sw/nestlabs/lib/nldetectorgraph/include/timeoutpublisher.hpp"
+			],
+			[
+				"nlevent",
+				"sw/nestlabs/flintstone/detectorgraph/core/include/nleventtopicstate.h"
+			],
+			[
+				"nleventt",
+				"sw/nestlabs/flintstone/detectorgraph/core/include/nleventtopicstate.h"
+			],
+			[
+				"state",
+				"sw/nestlabs/lib/nldetectorgraph/include/statesnapshot.hpp"
+			],
+			[
+				"detectorgraphthread",
+				"sw/nestlabs/flintstone/detectorgraph/core/include/nldetectorgraphthread.h"
+			],
+			[
+				"detectorgraphthre",
+				"sw/nestlabs/flintstone/detectorgraph/core/src/nldetectorgraphthread.cpp"
+			],
+			[
+				"flintstonedetector",
+				"sw/nestlabs/flintstone/detectorgraph/src/nlflintstonedetectorgraphthread.cpp"
+			],
+			[
+				"hiddenitefetch.cpp",
+				"sw/nestlabs/flintstone/hiddenite/src/nlhiddenitefetch.cpp"
+			],
+			[
+				"hiddenitef",
+				"sw/nestlabs/flintstone/hiddenite/include/nlhiddenitefetch.h"
+			],
+			[
+				"flintstonefa",
+				"sw/nestlabs/flintstone/detectors/src/hosted/flintstone/nlflintstoneactivefaultdetector.cpp"
+			],
+			[
+				"nlflintstonefaultdetector.cpp",
+				"sw/nestlabs/flintstone/detectors/src/nlsystemfaultdetector.cpp"
+			],
+			[
+				"flintstonefaultdetector.cpp",
+				"sw/nestlabs/flintstone/detectors/src/hosted/flintstone/nlflintstoneactivefaultdetector.cpp"
+			],
+			[
+				"nlclient.cpp",
+				"sw/nestlabs/flintstone/main/src/nlclient.cpp"
+			],
+			[
+				"nldetec",
+				"sw/nestlabs/flintstone/detectors/src/nldetectorthread.cpp"
+			],
+			[
+				"map.",
+				"assets/js/map.js"
+			],
+			[
+				"map.js",
+				"assets/js/map.js"
+			],
+			[
+				"passivefaultdetector",
+				"sw/nestlabs/flintstone/detectors/src/hosted/flintstone/nlflintstonepassivefaultdetector.cpp"
+			],
+			[
+				"nlglobal",
+				"sw/nestlabs/flintstone/app/src/nlglobalcntlr.h"
+			],
+			[
+				"globalcntr",
+				"sw/nestlabs/flintstone/app/src/nlglobalcntlr.cpp"
+			],
+			[
+				"buzzerma",
+				"sw/nestlabs/flintstone/app/src/nlbuzzermanager.cpp"
+			],
+			[
+				"pinna",
+				"sw/nestlabs/flintstone/detectors/include/nlpinnafaultdetector.h"
+			],
+			[
+				"nlintreduction",
+				"nestlabs/lib/nldetector/detectorvaluereduction.cpp"
+			],
+			[
+				"detect",
+				"nestlabs/lib/nldetector/detector.cpp"
+			],
+			[
+				"nlintrusiondete",
+				"nestlabs/flintstone/detectors/include/nlintrusiondetector.h"
+			],
+			[
+				"nlintrus",
+				"nestlabs/flintstone/detectors/src/nlintrusiondetector.cpp"
+			],
+			[
+				"nlsim",
+				"nestlabs/lib/nlappkit/nlsimulateabletimeeventhandlerthread.cpp"
+			],
+			[
+				"nlsimu",
+				"nestlabs/lib/nlappkit/nlsimulateabletimemgr.cpp"
+			],
+			[
+				"heartbeatcle",
+				"nestlabs/lib/nlappcore/nlheartbeatclient.cpp"
+			],
+			[
+				"nleventqu",
+				"nestlabs/lib/nlappcore/nleventqueue.cpp"
+			],
+			[
+				"test_flintstonefa",
+				"nestlabs/unit-test/test_detectors/test_flintstonefaultdetector.cpp"
+			],
+			[
+				"ptsynch.c",
+				"tps/nspr/nspr-4.8.6/mozilla/nsprpub/pr/src/pthreads/ptsynch.c"
+			],
+			[
+				"nltimer",
+				"nestlabs/lib/nlappcore/nltimer.cpp"
+			],
+			[
+				"eventsendingtimer",
+				"nestlabs/lib/nlappkit/nleventsendingtimer.cpp"
+			],
+			[
+				"nleventsen",
+				"nestlabs/lib/nlsensor/src/nleventsensor.cpp"
+			],
+			[
+				"nlappt",
+				"nestlabs/flintstone/app/src/nlappthread.cpp"
+			],
+			[
+				"nlappthread",
+				"nestlabs/flintstone/app/src/nlappthread.h"
+			],
+			[
+				"nleventhandlerthread",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nleventhandlerthread.h"
+			],
+			[
+				"nlsimulateabletimeeventhandlerthread",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nlsimulateabletimeeventhandlerthread.h"
+			],
+			[
+				"nllongtimer",
+				"nestlabs/lib/nlappcore/include/appcore/nllongtimer.h"
+			],
+			[
+				"simulatabl",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nlsimulateabletimemgr.h"
+			],
+			[
+				"nlsimulateabletimemgr.h",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nlsimulateabletimemgr.h"
+			],
+			[
+				"nlevent.",
+				"nestlabs/lib/nlappcore/nlevent.cpp"
+			],
+			[
+				"nleventsending",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nleventsendingtimer.h"
+			],
+			[
+				"eventsens",
+				"nestlabs/lib/nlsensor/src/nleventsensor.cpp"
+			],
+			[
+				"nltest",
+				"nestlabs/lib/test-framework/nltest.h"
+			],
+			[
+				"nleventsensr",
+				"nestlabs/lib/nlsensor/include/sensor/nleventsensor.h"
+			],
+			[
+				"nlsensor.h",
+				"nestlabs/lib/nlsensor/include/sensor/nlsensor.h"
+			],
+			[
+				"nlsensorevent",
+				"nestlabs/lib/nlsensor/src/nleventsensor.cpp"
+			],
+			[
+				"test_user",
+				"nestlabs/unit-test/test_detectors/test_usernearbydetector.cpp"
+			],
+			[
+				"eventsen",
+				"nestlabs/lib/nlappkit/nleventsendingtimer.cpp"
+			],
+			[
+				"nlbutton",
+				"nestlabs/flintstone/userinput/include/nlbuttonmgr.h"
+			],
+			[
+				"buttonm",
+				"nestlabs/flintstone/userinput/src/nlbuttonmgr.cpp"
+			],
+			[
+				"nleventhandler.",
+				"nestlabs/lib/nlappkit/include/nestlabs/appkit/nleventhandler.h"
+			],
+			[
+				"nlieventhandler",
+				"nestlabs/lib/nlappkit/nleventhandler.cpp"
+			],
+			[
+				"detector",
+				"nestlabs/lib/nldetector/detectorgraph.cpp"
+			],
+			[
+				"detector.h",
+				"nestlabs/lib/nldetector/include/nestlabs/detector/detector.hpp"
+			],
+			[
+				"dete",
+				"nestlabs/lib/nldetector/detector.cpp"
+			],
+			[
+				"usernearb",
+				"nestlabs/flintstone/detectors/src/nlusernearbydetector.cpp"
+			],
+			[
+				"nlsensor",
+				"nestlabs/lib/nlsensor/src/nlsensor.cpp"
+			],
+			[
+				"nlflinstone",
+				"nestlabs/flintstone/detectors/include/nlflintstonefaultdetector.h"
+			],
+			[
+				"nlflintstone",
+				"nestlabs/flintstone/detectors/src/nlflintstonefaultdetector.cpp"
+			],
+			[
+				"faultdetecto",
+				"nestlabs/flintstone/detectors/src/nlpinnafaultdetector.cpp"
+			],
+			[
+				"usernearbyde",
+				"nestlabs/flintstone/detectors/include/nlusernearbydetector.h"
+			],
+			[
+				"usernearby",
+				"nestlabs/flintstone/detectors/src/nlusernearbydetector.cpp"
+			],
+			[
+				"usernear",
+				"nestlabs/flintstone/detectors/include/nlusernearbydetector.h"
+			],
+			[
+				"usernearbydete",
+				"nestlabs/flintstone/detectors/src/nlusernearbydetector.cpp"
+			],
+			[
+				"nlpinnafaultdetector",
+				"nestlabs/flintstone/detectors/include/nlpinnafaultdetector.h"
+			],
+			[
+				"nlsystemfa",
+				"nestlabs/flintstone/detectors/include/nlsystemfaultdetector.h"
+			],
+			[
+				"nlsecur",
+				"nestlabs/flintstone/detectors/include/nlsecurityalarmdetector.h"
+			],
+			[
+				"nlalardete",
+				"nestlabs/flintstone/detectors/src/nlsecurityalarmdetector.cpp"
+			],
+			[
+				"nlfoo",
+				"nestlabs/flintstone/detectors/src/nlfoodetector.cpp"
+			],
+			[
+				"nlkeyeve",
+				"nestlabs/flintstone/userinput/include/nlkeyevents.h"
+			],
+			[
+				"nlflinstonefa",
+				"nestlabs/flintstone/detectors/src/nlflintstonefaultdetector.cpp"
+			],
+			[
+				"flintstone_sensors",
+				"nestlabs/lib/nlsensorhal/src/flintstone_sensors.cpp"
+			],
+			[
+				"sensorsummar",
+				"detectors/src/nlsensorsummarydetector.cpp"
+			],
+			[
+				"nlweave",
+				"detectors/include/nlweavedetectorregistry.h"
+			],
+			[
+				"nldetect",
+				"console/src/nldetectorbindings.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}

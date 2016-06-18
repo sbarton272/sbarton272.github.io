@@ -1,6 +1,6 @@
-Gemfile
+.DS_Store
 Gemfile.lock
-_drafts/
 _site/
 *.swp
 *.sh
+.sass-cache

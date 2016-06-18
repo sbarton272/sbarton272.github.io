@@ -1,0 +1,8 @@
+<div class="header">
+  <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+{% for page in site.html_pages %}
+	{% if page.title != 'Home' %}
+  <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
+  {% endif %}
+{% endfor %}
+</div>

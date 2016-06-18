@@ -1,7 +1,7 @@
 name: Spencer Barton
-markdown: redcarpet
-pygments: true
+permalink: /:year/:month/:day/:title/
+highlighter: pygments
 safe: true
 lsi: false
-timezone: America/New_York
-exclude: [Gemfile, Gemfile.lock, README.md, serve_site.sh]
+timezone: America/LA
+exclude: [Gemfile, Gemfile.lock, README.md, TODO.txt, sbarton272.github.io.sublime*]
