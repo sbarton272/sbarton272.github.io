@@ -3,7 +3,7 @@
 .header {
   .title {
     display: inline-block;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.25em;
   }
 
   a {
@@ -17,13 +17,11 @@
     }
   }
 
-  .header a {
-    font-weight: bold;
-    text-decoration: none;
-  }
-
   .title a {
     color: #a00;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
     &:hover {
       color: #000;
     }

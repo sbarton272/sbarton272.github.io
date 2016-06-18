@@ -7,12 +7,20 @@ title: Home
     <div class="col-sm-3">
         <img id="my-pic" class="img-responsive img-rounded" src="assets/img/me.jpg" alt="Photo of Spencer Barton">
     </div>
-    <div class="col-sm-6">
+    <div class="col-sm-8">
     <p>
         Hullo, I'm Spencer
     </p>
     <p>
         I am an <a href="https://en.wikipedia.org/wiki/Embedded_software">embedded software</a> engineer at <a href="https://nest.com/">Nest Labs</a>. I live in <a href="{% post_url 2016-06-16-sf-photos %}">SF</a>.
     </p>
+    <h1>Blog Posts</h1>
+    <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
     </div>
 </div>
