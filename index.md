@@ -12,7 +12,7 @@ title: Home
         Howdy, I'm Spencer
     </p>
     <p>
-        I am a <a href="https://xkcd.com/844/">software engineer</a> at <a href="https://branch.co/">Branch</a>. I live in <a href="{% post_url 2016-06-16-sf-photos %}">SF</a>.
+        I am a <a href="https://xkcd.com/303/">software engineer</a> at <a href="https://branch.co/">Branch</a>. I live in <a href="{% post_url 2016-06-16-sf-photos %}">SF</a>.
     </p>
     <h1>Blog Posts</h1>
     <ul class="post-list">
