@@ -3,13 +3,14 @@ sbarton272.github.io
 
 # Hello
 
-Personal website - using jekyll and it's nice
+Personal website - using [jekyll](https://jekyllrb.com/) and it's nice
 
 http://sbarton272.github.io/
 
 # Setup
 
 ```
+gem install jekyll bundler
 bundle install
 ```
 
