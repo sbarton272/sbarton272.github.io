@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Inverted Pendulum: Experiment 1"
-categories: controls
+categories: controls code js
 js:
   - lib/matter.min.js
   - inverted_pendulum.js

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rectangles Move"
-categories: art p5
+categories: art p5 code js
 js:
   - lib/p5.min.js
   - moving_rects.sketch.js
