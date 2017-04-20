@@ -4,4 +4,4 @@ Projects page
 Interests photos
 Blog (blogger?)
 New photo of me
-Fix CSS delay
+links to FuF projects

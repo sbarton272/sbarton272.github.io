@@ -18,6 +18,7 @@ bundle install
 
 - (github) Push to master
 - (local) `bundle exec jekyll serve`
+- (local with drafts) `bundle exec jekyll serve --drafts`
 
 # License
 

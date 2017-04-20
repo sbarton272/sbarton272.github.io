@@ -7,6 +7,6 @@ js:
   - moving_rects.sketch.js
 ---
 
-<div id="sketch-container"></div>
-
 [source](/assets/js/moving_rects.sketch.js)
+
+<div id="sketch-container"></div>
