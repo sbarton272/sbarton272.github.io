@@ -27,7 +27,6 @@ function setup() {
   start_locs = new Uint8Array(16);
   window.crypto.getRandomValues(start_locs);
   for (var loc = 0; loc < 16; loc += 2) {
-    console.log(start_locs[loc] / 255 * IMG.width);
     CUR_PXLS.push([start_locs[loc] / 255 * IMG.width, start_locs[loc+1] / 255 * IMG.height]);
   }
 }
