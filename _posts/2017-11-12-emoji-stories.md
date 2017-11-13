@@ -10,4 +10,4 @@ Puppy Love
 Cat Love
 😺😻🖐🏻😾😼👹
 
-Contribute at: https://github.com/sbarton272/emoji-story
+Contribute at: [https://github.com/sbarton272/emoji-story](https://github.com/sbarton272/emoji-story)
