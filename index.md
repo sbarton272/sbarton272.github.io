@@ -12,7 +12,7 @@ title: Home
         Howdy, I'm Spencer
     </p>
     <p>
-        I am a <a href="https://xkcd.com/303/">software engineer</a> at <a href="https://digit.co/">Digit</a>.
+        I am an engineering manager at <a href="https://digit.co/">Digit</a>.
     </p>
     <h1>Blog Posts</h1>
     <ul class="post-list">
