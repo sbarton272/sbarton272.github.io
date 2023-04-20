@@ -1,4 +1,4 @@
-name: Spencer Barton
+title: Spencer Barton
 permalink: /:year/:month/:day/:title/
 highlighter: rouge
 safe: true
@@ -8,9 +8,7 @@ exclude: [
 	Gemfile,
 	Gemfile.lock,
 	README.md,
-	TODO.txt,
-	sbarton272.github.io.sublime-project,
-	sbarton272.github.io.sublime-workspace
+	TODO.md
 ]
-gems:
+plugins:
   - jekyll-sitemap

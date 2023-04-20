@@ -1,0 +1,11 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ruby
+{
+	"name": "Jekyll",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+	"forwardPorts": [ 4000 ],
+    "postStartCommand": "nohup bash -c 'bundle exec jekyll serve --drafts &'"
+}

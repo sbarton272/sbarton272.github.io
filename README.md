@@ -1,26 +1,30 @@
 sbarton272.github.io
 ====================
 
-# Hello
+## Hello
 
 Personal website - using [jekyll](https://jekyllrb.com/) and it's nice
 
 http://sbarton272.github.io/
 
-# Setup
+## Setup
+
+Use the dev container
+
+OR
 
 ```
 gem install jekyll bundler
 bundle install
 ```
 
-# Deployment
+## Deployment
 
 - (github) Push to master
 - (local) `bundle exec jekyll serve`
 - (local with drafts) `bundle exec jekyll serve --drafts`
 
-# License
+## License
 
 The following directories and their contents are Copyright Spencer Barton. You may not reuse anything therein without my permission:
 

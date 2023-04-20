@@ -5,3 +5,4 @@ _site/
 *.sh
 .sass-cache
 *.sublime-*
+nohup.out
