@@ -2,11 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# TODO
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Spencer
+middle_name: 
+last_name: Barton
+email: website@spencerbarton.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -57,8 +58,6 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -71,6 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+# TODO
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
