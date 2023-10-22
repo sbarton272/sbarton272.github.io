@@ -2,6 +2,11 @@ ToDo
 ====
 
 - [ ] About page
-- [ ] New photo
+- [x] New photo
 - [ ] Blog?
-- [ ] Icon
+- [x] Icon
+- [ ] Nav
+- [ ] Blog: manager readme
+- [ ] Blog: random art experiments (pendulum, rectangles)
+- [ ] Blog: photography https://www.instagram.com/spencer.photoz/
+
