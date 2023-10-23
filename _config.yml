@@ -24,17 +24,13 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Theme
 # -----------------------------------------------------------------------------
 
-# code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
-
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
-  theme_light: flat             # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed         # https://github.com/ryo-ma/github-profile-trophy
+  theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -53,6 +49,8 @@ footer_fixed: true
 
 # Dimensions
 max_width: 800px
+
+# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -79,8 +77,10 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
+scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -97,6 +97,8 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
+zotero_username: # your zotero username
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note:
 
@@ -105,8 +107,8 @@ contact_note:
 # -----------------------------------------------------------------------------
 
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 cloudflare_analytics: ff9e032147e0472c8d29765bb2cc22c0
+cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -115,7 +117,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Posts # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: /blog/:year/:title/
@@ -131,19 +133,16 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
-# TODO
-# giscus:
-#   repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-#   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-#   category: Comments             # name of the category under which discussions will be created
-#   category_id: DIC_kwDOA5PmLc4CTBt6
-#   mapping: title                 # identify discussions by post title
-#   strict: 1                      # use strict identification mode
-#   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-#   input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-#   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-#   emit_metadata: 0
-#   lang: en
+giscus:
+  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  category: Comments             # name of the category under which discussions will be created
+  mapping: title                 # identify discussions by post title
+  strict: 1                      # use strict identification mode
+  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
+  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata: 0
+  lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: spencer-barton # put your disqus shortname
@@ -204,7 +203,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - old
   - nohup.out
 keep_files:
   - CNAME
@@ -217,12 +215,15 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-get-json
   - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-link-attributes
+  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
@@ -232,6 +233,9 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+
+sass:
+  style: compressed
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -258,6 +262,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['management', 'art', 'code'] # this tags will be dispalyed on the front page of your blog
+display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -287,6 +292,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  group_by: year
+  group_order: descending
 
 badges: # Display different badges for your publications
   altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
@@ -345,9 +352,9 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:     false  # enables google analytics
-enable_panelbear_analytics:  false  # enables panelbear analytics
 enable_cloudflare_analytics: true
+enable_google_analytics:     false  # enables google analytics
+enable_cronitor_analytics:   false  # enables cronitor RUM analytics
 enable_google_verification:  false  # enables google site verification
 enable_bing_verification:    false  # enables bing site verification
 enable_masonry:              true   # enables automatic project cards arrangement
@@ -366,17 +373,8 @@ enable_progressbar:          false  # enables a horizontal progress bar linked t
 # Library versions
 # -----------------------------------------------------------------------------
 
-academicons:
-  version: "1.9.1"
-  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
-bootstrap:
-  version: "4.6.1"
-  integrity:
-    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
-    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
-fontawesome:
-  version: "5.15.4"
-  integrity: "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+bootstrap-table:
+  version: "1.22.1"
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -393,3 +391,24 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+# -----------------------------------------------------------------------------
+# Get external JSON data
+# -----------------------------------------------------------------------------
+
+jekyll_get_json:
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
+jsonresume:
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references
