@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Rectangles Move Experiment"
+title: Rectangles Move
+description: A visual experiment using P5.js
 tags: experiment art code
 js:
   - p5.min.js

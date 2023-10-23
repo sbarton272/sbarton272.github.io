@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Engineering Manager Readme"
+title:  Engineering Manager Readme
+description: My leadership philosophy and management style.
 tags: management
 ---
 <!-----
