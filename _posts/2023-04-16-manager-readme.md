@@ -3,6 +3,8 @@ layout: post
 title:  Engineering Manager Readme
 description: My leadership philosophy and management style.
 tags: management
+toc:
+  beginning: true
 ---
 <!-----
 source: https://docs.google.com/document/d/125jZ7HhqXbYC6ar2FhTEL2gXaAPfgWVcqA5z0QTdQGI
@@ -16,17 +18,10 @@ This document outlines how I operate as a software engineering manager (EM). My 
 
 If you’re just looking for the TLDR:
 
-
-
 * I aim to be a servant leader, empowering others to succeed
 * I value continuous learning and improvement
 * I like to build teams based on trust, accountability, respect & a clear mission
 
-
-**Contents**
-
-* This will become a table of contents (this text will be scrapped).
-{:toc}
 
 ### 🥖 My role {#🥖-my-role}
 
