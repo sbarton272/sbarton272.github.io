@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sbarton272.github.io/sitemap.xml
