@@ -16,3 +16,9 @@
     cronitor('config', { clientKey: '{{site.cronitor_analytics}}' });
   </script>
 {%- endif -%}
+{%- if site.enable_cloudflare_analytics -%}
+  <!-- Cloudflare Web Analytics -->
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ site.cloudflare_analytics }}"}'>
+  </script>
+  <!-- End Cloudflare Web Analytics -->
+{%- endif -%}
