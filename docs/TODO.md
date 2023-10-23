@@ -1,12 +1,16 @@
 ToDo
 ====
 
-- [ ] About page
+- [x] About page
 - [x] New photo
-- [ ] Blog?
+- [x] Blog?
 - [x] Icon
-- [ ] Nav
-- [ ] Blog: manager readme
-- [ ] Blog: random art experiments (pendulum, rectangles)
+- [x] Nav
+- [x] Blog: manager readme
+- [x] Blog: random art experiments (pendulum, rectangles)
 - [ ] Blog: photography https://www.instagram.com/spencer.photoz/
-
+- [ ] Update icons
+- [x] Dark mode auto-detect
+- [x] Fix blog tag pages
+- [ ] Post descriptions
+- [ ] Project: OLED (vimeo, art bike)
