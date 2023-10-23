@@ -58,7 +58,7 @@ When faced with limited time one solution is to simply work longer hours. Someti
 - [Methods like Pomodoro](https://todoist.com/productivity-methods/pomodoro-technique) can help you manage these time intervals ([Pomofocus](https://pomofocus.io/), [TogglTrack](https://toggl.com/track/), [Be Focused Timer](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12)).
 
 
-**How to Keep Track of it All Don’t try to keep it all in your head.**
+**How to keep track of it all don’t try to keep it all in your head.**
 
 
 - Tons of little things will come at you during the day. You’re only physically capable of remembering about 7 of them so rather than fight the chaos write down these tasks as they come.
@@ -82,7 +82,7 @@ When faced with limited time one solution is to simply work longer hours. Someti
 - If you’re constantly stretched and find that you’re not getting important stuff done that is a sign that you need to be changing something. Say no to more work and let people know you’ll be dropping the ball on things.
 
 
-#### Debugging Your Time
+#### Debugging your time
 
 **You probably don’t know where your time goes.**
 
@@ -99,7 +99,7 @@ When faced with limited time one solution is to simply work longer hours. Someti
 - Catching yourself when you start procrastinating is hard but there are some tools to help like [RescueTime](https://www.rescuetime.com/) and iOS and Android app time limits. Mac also has [Screen Time settings](https://support.apple.com/en-us/HT210387) in system preferences.
 
 
-#### A Summary of Weekly Practices
+#### A summary of weekly practices
 
 **On Monday morning**
 
@@ -120,6 +120,6 @@ When faced with limited time one solution is to simply work longer hours. Someti
 - Reevaluate your system because your current tools may no longer be working for you.
 - Remove old tasks from your tracking system.
 
-#### Further Reading
+#### Further reading
 
 - [Wikipedia on time management tools](https://en.wikipedia.org/wiki/Time_management)
