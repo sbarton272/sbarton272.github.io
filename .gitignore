@@ -9,4 +9,5 @@ nohup.out
 .tweet-cache
 Gemfile.lock
 vendor
+nohup.out
 
