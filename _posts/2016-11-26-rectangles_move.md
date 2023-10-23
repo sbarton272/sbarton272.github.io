@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rectangles Move Experiment"
-categories: experiment art code
+tags: experiment art code
 js:
   - p5.min.js
   - projects/moving_rects.sketch.js

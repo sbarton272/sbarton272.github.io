@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Inverted Pendulum Experiment"
-categories: experiment art code
+tags: experiment art code
 js:
   - matter.min.js
   - projects/inverted_pendulum.js

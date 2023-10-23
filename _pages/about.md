@@ -19,3 +19,5 @@ social: true  # includes social icons at the bottom of the page
 Howdy, I'm Spencer!
 
 I am a software engineering manager at [Klaviyo](https://www.klaviyo.com/).
+
+[Checkout my blog](/blog/)
