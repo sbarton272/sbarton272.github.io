@@ -1,7 +1,0 @@
-.DS_Store
-_site/
-*.swp
-*.sh
-.sass-cache
-*.sublime-*
-nohup.out
