@@ -7,5 +7,5 @@
         "context": ".."
     },
 	"forwardPorts": [ 4000 ],
-    "postStartCommand": "nohup bash -c 'bundle exec jekyll serve --drafts &'"
+    "postStartCommand": "nohup bash -c 'bundle exec jekyll serve --drafts --watch &'"
 }
