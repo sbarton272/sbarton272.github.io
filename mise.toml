@@ -1,0 +1,6 @@
+[tasks.dev]
+description = "Build and run the site locally on http://localhost:4000"
+run = [
+  "docker build -t sbarton-site -f .devcontainer/Dockerfile .",
+  "docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll sbarton-site"
+]
