@@ -14,9 +14,7 @@ Used a doc to markdown converter
 ----->
 
 
-### Motivation for this document {#motivation-for-this-document}
-
-This document outlines how I operate as a software engineering manager (EM). My hope is to give you a sense for how I approach the job and what working with me would be like. I've served as an engineering manager at [Branch International](https://branch.co/), [Digit](https://digit.co/), [KoBold Metals](koboldmetals.com/) & [Klaviyo](http://klaviyo.com/). 
+This document outlines how I operate as a software engineering manager (EM). My hope is to give you a sense for how I approach the job and what working with me would be like. I've served as an engineering manager at [Branch International](https://branch.co/), [Digit](https://digit.co/), [KoBold Metals](https://koboldmetals.com/) & [Klaviyo](http://klaviyo.com/). 
 
 If you're just looking for the TLDR:
 
@@ -192,6 +190,7 @@ I'm best able to focus in a quiet environment where I can be distraction free fo
 
 
 
-* [Atlassian playbooks for team activities](https://www.atlassian.com/team-playbook/plays)
-* [Will Larson's blog](https://lethain.com/featured/)
+* [Atlassian playbooks for team activities](https://www.atlassian.com/team-playbook)
+* [Will Larson's blog](https://lethain.com)
 * [The Manager's Path by Camille Fournier](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+* [Scaling People by Claire Hughes Johnson](https://www.goodreads.com/book/show/63063173-scaling-people)
