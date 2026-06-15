@@ -30,7 +30,7 @@ mise run dev
 Or manually:
 
 ```sh
-docker build -t sbarton-site .
+docker build -t sbarton-site -f .devcontainer/Dockerfile .
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll sbarton-site
 ```
 
