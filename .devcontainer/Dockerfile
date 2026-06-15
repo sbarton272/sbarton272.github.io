@@ -1,4 +1,4 @@
-FROM ruby:3.2-bullseye
+FROM ruby:3.4-bookworm
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     imagemagick \
