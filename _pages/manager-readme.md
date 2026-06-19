@@ -183,7 +183,7 @@ I have less patience for ego, people talking over each other, meetings without a
 
 **How I focus**
 
-I'm best able to focus in a quiet environment where I can be distraction free for a spell. You may see me log off slack sometimes if I need time to get a project done. I'll also schedule work blocks and I try to cluster my meetings using tools like Clockwise.
+I'm best able to focus in a quiet environment where I can be distraction free for a spell. You may see me log off slack sometimes if I need time to get a project done. I'll also schedule work blocks and I try to cluster my meetings.
 
 
 ### 📖 Resources I constantly reference {#📖-resources-i-constantly-reference}
