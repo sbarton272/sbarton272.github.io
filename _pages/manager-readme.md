@@ -14,7 +14,7 @@ Used a doc to markdown converter
 ----->
 
 
-This document outlines how I operate as a software engineering manager (EM). My hope is to give you a sense for how I approach the job and what working with me would be like. I've served as an engineering manager at [Branch International](https://branch.co/), [Digit](https://digit.co/), [KoBold Metals](https://koboldmetals.com/) & [Klaviyo](http://klaviyo.com/). 
+This document outlines how I operate as a software engineering manager (EM). My hope is to give you a sense for how I approach the job and what working with me would be like. I've served as an engineering manager at [Branch International](https://branch.co/), [Digit](https://digit.co/), [KoBold Metals](https://koboldmetals.com/), [Klaviyo](http://klaviyo.com/) & [Suno](https://suno.com/). 
 
 If you're just looking for the TLDR:
 

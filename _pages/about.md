@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Howdy, I'm Spencer!
 
-I am a software engineering manager at [Klaviyo](https://www.klaviyo.com/). You can read about my leadership style in my [Engineering Manager Readme](/manager-readme/).
+I am a software engineering manager at [Suno](https://suno.com/). You can read about my leadership style in my [Engineering Manager Readme](/manager-readme/).
 
 [Read more in my blog](/blog/)
